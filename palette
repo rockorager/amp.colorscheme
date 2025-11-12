@@ -1,0 +1,36 @@
+primary = #E7894C
+light = #F0C3AA
+lightest = #F2ECDD
+mono = #161616
+black = #000000
+blue1 =#E1E1E1 
+blue2 =#A7A9A5 
+blue3 = #627987
+blue4 = #316E99
+blue5 = #1B2B56 
+blue6 = #0D1323
+green1 = #E5FEEB
+green2 =#B6D7BA 
+green3 = #7C9B96
+green4 = #204F4F
+green5 = #233134
+green6 =#0E1C1E 
+red1 =#E0D4D8 
+red2 = #D6B4A4
+red3 = #6B424F
+red4 = #552D39
+red5 = #371437
+red6 = #260608
+yellow1 = #DCD7C6
+yellow2 = #E3C888
+yellow3 = #E3A25A
+yellow4 = #B78452
+yellow5 = #605A4E
+yellow6 = #272112
+
+# Generated colors
+vibrant_red = #D9634F
+magenta = #B98BA4
+cyan = #5A8F8F
+bright_blue = #6A9FCC
+bright_cyan = #8FC4C4

@@ -1,0 +1,34 @@
+# Amp Color Scheme for Ghostty
+
+# UI Colors
+background = #161616
+foreground = #F2ECDD
+cursor-color = #E7894C
+selection-background = #233134
+selection-foreground = #F2ECDD
+split-divider-color = #627987
+
+# macOS Icon Colors
+macos-icon = custom-style
+macos-icon-ghost-color = #E7894C
+macos-icon-screen-color = #161616
+
+# Standard ANSI Colors (0-7)
+palette = 0=#161616
+palette = 1=#D9634F
+palette = 2=#7C9B96
+palette = 3=#E3A25A
+palette = 4=#316E99
+palette = 5=#B98BA4
+palette = 6=#5A8F8F
+palette = 7=#E1E1E1
+
+# Bright ANSI Colors (8-15)
+palette = 8=#627987
+palette = 9=#E7894C
+palette = 10=#B6D7BA
+palette = 11=#E3C888
+palette = 12=#6A9FCC
+palette = 13=#D6B4A4
+palette = 14=#8FC4C4
+palette = 15=#F2ECDD
